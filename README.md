@@ -44,7 +44,7 @@
   _Apr 2024 – Oct 2026_  
   Skills & coursework: Human-Centered AI · Recommender Systems · Artificial Intelligence · Machine Learning · Advanced Database Models · Software Development Life Cycle (SDLC) · Information Retrieval · Sensor Networks · Simulation · Business Informatics · Computer-Supported Diagnosis of Cardiovascular Diseases · Human-Centred Approaches and Technologies  
 
-- **Bachelor of Technology (Computer Science & Engineering)**, Narula Institute of Technology  
+- **Bachelor of Technology (Electronics and Communication Engineering)**, Narula Institute of Technology  
   _Aug 2017 – May 2021_  
   Relevant coursework: Data Structures & Algorithms · Database Management Systems · Operating Systems · Computer Networks · Machine Learning · Software Engineering  
 
