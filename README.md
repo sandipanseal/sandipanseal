@@ -16,7 +16,7 @@
 
 ## 💼 Experience
 - **Research Assistant (Hiwi)**, Leibniz Institute for Neurobiology · Part-time  
-  _Mar 2025 – Present_ | Magdeburg, Saxony-Anhalt, Germany (Remote)  
+  _Mar 2025 – Present_ | Magdeburg, Saxony-Anhalt, Germany 
   - Working on Brain–Machine Interface and EEG neural feedbacks  
   - Conducting research on depth perception  
 
