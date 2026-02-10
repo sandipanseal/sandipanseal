@@ -7,7 +7,7 @@
 ---
 
 ## 🛠️ Skills
-- ⚙️ Full-Stack Development  
+- ⚙️ Full-Stack Development AI  
 - 🧪 Automation Testing  
 - 🤖 Machine Learning  
 - 🔒 Cybersecurity  
