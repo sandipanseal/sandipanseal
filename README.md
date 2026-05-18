@@ -30,13 +30,13 @@
 ### 🧠 About Me
 
 ```yaml
-  - AI Engineer
+AI Engineer
 based_in:  Magdeburg, Germany 🇩🇪
 origin:    Kolkata, India 🇮🇳
 
-mission: |
-  Take frontier AI out of the notebook and into production —
-  cost-aware, observable, safe, and genuinely useful for users.
+mission: 
+  Take frontier AI out of the notebook and into production
+  - cost-aware, observable, safe, and genuinely useful for users.
 
 currently:
   - 🤖 Building LLM-powered, RAG-enabled multi-agent systems @ aiio GmbH
