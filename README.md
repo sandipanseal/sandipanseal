@@ -1,9 +1,7 @@
 <!--
   ╔══════════════════════════════════════════════════════════════════════╗
   ║   Sandipan Seal                                                      ║
-  ║   AI Engineer · GenAI Engineer · AI Forward-Deployed Engr.           ║
-  ║   Sources merged: GitHub (sandipanseal) + LinkedIn (sandipan-seal)   ║
-  ║   Drop this file into: github.com/sandipanseal/sandipanseal          ║
+  ║   AI Engineer · GenAI Engineer · AI Forward-Deployed Engineer        ║
   ╚══════════════════════════════════════════════════════════════════════╝
 -->
 
@@ -22,7 +20,7 @@
 
 <!-- ============================== TYPING INTRO ============================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=8A63D2&center=true&vCenter=true&multiline=true&width=880&height=160&lines=Hi+%F0%9F%91%8B+I'm+Sandipan+Seal;%F0%9F%A4%96+AI+Engineer+%C2%B7+GenAI+Engineer+%C2%B7+AI+Forward-Deployed+Engineer;I+build+LLM+gateways%2C+multi-agent+systems+%26+RAG+at+production+scale;%F0%9F%93%9C+Patent+Holder+%C2%B7+%F0%9F%8F%86+Hackathon+Winner+%C2%B7+%F0%9F%A7%AC+Neuro-AI+Researcher;From+silicon+to+systems+to+intelligence+%E2%9A%A1" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=8A63D2&center=true&vCenter=true&multiline=true&width=880&height=160&lines=Hi+%F0%9F%91%8B+I'm+Sandipan+Seal;%F0%9F%A4%96+AI+Engineer;I+build+LLM+gateways%2C+multi-agent+systems+%26+RAG+at+production+scale;From+silicon+to+systems+to+intelligence+%E2%9A%A1" alt="Typing SVG"/>
 </p>
 
 <!-- ============================== SNAPSHOT ============================== -->
@@ -33,10 +31,7 @@
 ### 🧠 About Me
 
 ```yaml
-identity:
   - AI Engineer
-  - GenAI Engineer
-  - AI Forward-Deployed Engineer
 based_in:  Magdeburg, Germany 🇩🇪
 origin:    Kolkata, India 🇮🇳
 
