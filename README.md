@@ -57,7 +57,7 @@ career_highlights:
   - 🏆 Winner — Conquer COVID-19 Hackathon
   - 📄 2× Best Paper Award (I3SET 2k19, NCMR 2020)
   - 🌟 2× High Five Team Award @ Persistent Systems
-  - 🎓 Swami Vivekananda Merit-Cum-Means Scholar (full B.Tech)
+  - 🎓 Swami Vivekananda Merit-Cum-Means Scholarship (State Govt.)
 
 fun_fact: "I turn 'just a demo' into 'production-grade' over a weekend."
 ```
@@ -79,7 +79,7 @@ fun_fact: "I turn 'just a demo' into 'production-grade' over a weekend."
 ---
 
 <!-- ============================== SKILLS BY DOMAIN ============================== -->
-<h2 align="center">🛠️ Skills — Segmented by Domain</h2>
+<h2 align="center">🛠️ Skillsn</h2>
 
 <details open>
 <summary><b>🤖 Generative AI · LLM · Agentic AI</b></summary>
