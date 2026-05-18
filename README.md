@@ -71,7 +71,7 @@ fun_fact: "I turn 'just a demo' into 'production-grade' over a weekend."
   <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="260" alt="coding animation"/>
 </p>
 <p align="center">
-  <img src="https://dribbble.com/shots/5453050-AI-illustration" width="260" alt="Ai"/>
+  <img src="https://cdn.dribbble.com/userupload/23731317/file/original-5eb2f9967073700b38a31280cc2c32e0.gif" width="260" alt="Ai"/>
 </p>
 
 </td>
