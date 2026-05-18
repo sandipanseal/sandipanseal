@@ -79,7 +79,7 @@ fun_fact: "I turn 'just a demo' into 'production-grade' over a weekend."
 ---
 
 <!-- ============================== SKILLS BY DOMAIN ============================== -->
-<h2 align="center">🛠️ Skillsn</h2>
+<h2 align="center">🛠️ Skills </h2>
 
 <details open>
 <summary><b>🤖 Generative AI · LLM · Agentic AI</b></summary>
