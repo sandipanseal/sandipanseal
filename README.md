@@ -20,7 +20,7 @@
 
 <!-- ============================== TYPING INTRO ============================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=8A63D2&center=true&vCenter=true&multiline=true&width=880&height=160&lines=Hi+%F0%9F%91%8B+I'm+Sandipan+Seal;%F0%9F%A4%96+AI+Engineer;I+build+LLM+gateways%2C+multi-agent+systems+%26+RAG+at+production+scale;From+silicon+to+systems+to+intelligence+%E2%9A%A1" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=8A63D2&center=true&vCenter=true&multiline=true&width=880&height=160&lines=Hi+%F0%9F%91%8B+I'm+Sandipan+Seal;%F0%9F%A4%96+AI+Engineer;I+build+LLM+gateways%2C+multi-agent+systems;%26+RAG+at+production+scale;From+silicon+to+systems+to+intelligence+%E2%9A%A1" alt="Typing SVG"/>
 </p>
 
 <!-- ============================== SNAPSHOT ============================== -->
