@@ -44,12 +44,13 @@ currently:
   
 
 focus_areas:
-  - LLM Ops · Routing · Caching · Guardrails · Evals (LLM-as-Judge, RAGAS)
-  - Agentic AI · Multi-Agent Orchestration · MCP · Claude Agent SDK
+  - LLM Gateways · Cost-Aware Routing · Caching · Guardrails · Evals (LLM-as-Judge, RAGAS)
+  - Agentic AI for SRE · Incident Commander Agents · Approval-Gated Runbooks
+  - Multi-Agent Orchestration · MCP · Claude Agent SDK
   - Retrieval-Augmented Generation · Vector DBs · Knowledge Graphs
   - LLM Security · Prompt-Injection Defense · PII Redaction
   - Fine-tuning · Open-weights deployment (Ollama, vLLM)
-  - Full-stack AI product delivery (FastAPI · Next.js · Postgres · Redis)
+  - Full-stack AI delivery · AWS Serverless · Docker · Kubernetes · OpenTelemetry
 
 career_highlights:
   - 📜 Indian Patent IN 202031037602 A — Automated Bag Valve Mask
@@ -97,6 +98,12 @@ fun_fact: "I turn 'just a demo' into 'production-grade' over a weekend."
   <img src="https://img.shields.io/badge/Claude_Agent_SDK-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prompt_Engineering-000?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/LLM_Evals-22C55E?style=for-the-badge&logo=verified&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLM_Gateways-412991?style=for-the-badge&logo=cloudflareworkers&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLM--as--Judge-22C55E?style=for-the-badge&logo=verified&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Agentic_SRE-FF6F00?style=for-the-badge&logo=pagerduty&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Incident_Response_AI-E6522C?style=for-the-badge&logo=opsgenie&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Safety_Classification-8A63D2?style=for-the-badge&logo=shield&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Approval--Gated_Runbooks-22C55E?style=for-the-badge&logo=githubactions&logoColor=white"/>
 </p>
 </details>
 
@@ -208,6 +215,14 @@ fun_fact: "I turn 'just a demo' into 'production-grade' over a weekend."
   <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenTelemetry-000?style=for-the-badge&logo=opentelemetry&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS_API_Gateway-FF4F8B?style=for-the-badge&logo=amazonapigateway&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS_CloudFront-9D4CFF?style=for-the-badge&logo=amazoncloudfront&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS_SQS-FF4F8B?style=for-the-badge&logo=amazonsqs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Upstash-00E9A3?style=for-the-badge&logo=upstash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 </p>
 </details>
@@ -316,11 +331,20 @@ Designed and built the <i>Automated Solar Panel Street Light</i> · circuit trac
 <tr>
 <td width="50%" valign="top">
 
-#### 🛡️ [InferOps-AI](https://github.com/sandipanseal/InferOps-AI)
-Production-grade **LLM gateway** with cost-aware routing, PII redaction, prompt-injection blocking, RAG, Redis caching, evals (LLM-as-judge + RAGAS) and full observability stack.
-<br/>`FastAPI` `LangChain` `Qdrant` `Redis` `Prometheus` `Grafana`
+#### 🛡️ [AegisOps-AI](https://github.com/sandipanseal/AegisOps-AI)
+**Agentic AI Incident Commander** for production systems. Multi-agent pipeline: evidence collection (logs · metrics · k8s · deploys) → LLM RCA → safety classification → **approval-gated runbooks**. Pluggable LLM backend — routes through the InferOps gateway, OpenAI, or a deterministic fallback. Prometheus + Grafana + OpenTelemetry end-to-end.
+<br/>`FastAPI` `Next.js` `Postgres` `Prometheus` `Grafana` `OpenTelemetry`
 
 </td>
+<td width="50%" valign="top">
+
+#### ☁️ [InferOps-AI · AWS Deploy](https://github.com/sandipanseal/InferOps-AI/tree/aws-deploy)
+Production **LLM gateway** — cost-aware routing, PII redaction, prompt-injection blocking, RAG (Qdrant), Redis caching, evals (LLM-as-Judge + RAGAS), full observability. **Serverless on AWS**: Lambda · API Gateway · SQS · Supabase · Upstash · CloudFront — scale-to-zero idle cost (~$0.50/mo).
+<br/>`AWS Lambda` `FastAPI` `LangChain` `Supabase` `Upstash` `Prometheus`
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 #### ⚖️ [AI-Compliance-Gatekeeper-n8n](https://github.com/sandipanseal/AI-Compliance-Gatekeeper-n8n)
@@ -328,8 +352,6 @@ AI-driven **compliance & governance** system analyzing policies, documents and w
 <br/>`n8n` `RegTech` `Document Analysis` `Python`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 #### 🧪 [AI Automation Testing — CrewAI](https://github.com/sandipanseal/AI-Automation-Testing-Tool-using-CrewAi)
@@ -337,6 +359,8 @@ AI-driven **compliance & governance** system analyzing policies, documents and w
 <br/>`CrewAI` `OpenAI` `FastAPI` `Playwright` `Vite + React`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 #### 🏛️ [Mine-TENJI — Legal Search](https://github.com/sandipanseal/Mine-TENJI-Integrating-Speech-Recommendation-into-Legal-Search)
@@ -344,8 +368,6 @@ AI-driven **compliance & governance** system analyzing policies, documents and w
 <br/>`NLP` `IR` `Neo4j` `Supabase` `TypeScript`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 #### 🧠 [Neurofeedback Software](https://github.com/sandipanseal/Neurofeedback_Software)
@@ -353,6 +375,8 @@ EEG / BMI experiment stack used at Leibniz Institute for Neurobiology.
 <br/>`Python` `OpenGL` `MATLAB` `Signal Processing`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 #### 🔬 [Embedded HW + Cone Detection](https://github.com/sandipanseal/Evaluation-of-Embedded-Hardware-and-Cone-Detection-)
@@ -360,8 +384,6 @@ Hardware evaluation pipeline with **OpenCL, OpenCV and FFT-based cone detection*
 <br/>`OpenCL` `OpenCV` `FFT` `Embedded`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 #### 🫁 [Automated Bag Valve Mask — 📜 Patent](https://github.com/sandipanseal/Fully-Automated-Bag-Valve-Mask)
@@ -369,6 +391,8 @@ IoT-based fully automated BVM for COVID patients. <b>Indian Patent IN&nbsp;20203
 <br/>`IoT` `Embedded` `Medical Devices`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 #### 🦠 [CNN for COVID Detection](https://github.com/sandipanseal/Utilizing-Convoluted-Neural-Networks-to-predict-CoVid-Infections-in-Individuals)
@@ -376,8 +400,6 @@ IoT-based fully automated BVM for COVID patients. <b>Indian Patent IN&nbsp;20203
 <br/>`PyTorch` `CNN` `Medical AI`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 #### 🎙️ [Emotion via Voice — 🏆 Best Paper](https://github.com/sandipanseal/Classification-of-Emotions-using-Voice-Signal-A-Non-Linear-Signal-Processing-Approach)
@@ -385,11 +407,18 @@ Non-linear signal-processing approach to voice-based emotion classification. <b>
 <br/>`MATLAB` `DSP` `ML`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 #### 🌐 [Company Website Clustering](https://github.com/sandipanseal/company-website-clustering)
 Unsupervised clustering of company websites for market segmentation.
 <br/>`Python` `NLP` `Clustering`
+
+</td>
+<td width="50%" valign="top">
+
+<p align="center"><sub>more projects on <a href="https://github.com/sandipanseal?tab=repositories">github.com/sandipanseal</a> 👉</sub></p>
 
 </td>
 </tr>
