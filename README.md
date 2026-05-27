@@ -338,9 +338,9 @@ Designed and built the <i>Automated Solar Panel Street Light</i> · circuit trac
 </td>
 <td width="50%" valign="top">
 
-#### ☁️ [InferOps-AI · AWS Deploy](https://github.com/sandipanseal/InferOps-AI/tree/aws-deploy)
-Production **LLM gateway** — cost-aware routing, PII redaction, prompt-injection blocking, RAG (Qdrant), Redis caching, evals (LLM-as-Judge + RAGAS), full observability. **Serverless on AWS**: Lambda · API Gateway · SQS · Supabase · Upstash · CloudFront — scale-to-zero idle cost (~$0.50/mo).
-<br/>`AWS Lambda` `FastAPI` `LangChain` `Supabase` `Upstash` `Prometheus`
+#### 🛡️ [InferOps-AI](https://github.com/sandipanseal/InferOps-AI)
+Production-grade **LLM gateway** with cost-aware routing, PII redaction, prompt-injection blocking, RAG, Redis caching, evals (LLM-as-judge + RAGAS) and full observability stack.
+<br/>`FastAPI` `LangChain` `Qdrant` `Redis` `Prometheus` `Grafana`
 
 </td>
 </tr>
