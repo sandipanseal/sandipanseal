@@ -46,11 +46,12 @@ currently:
 focus_areas:
   - LLM Gateways · Cost-Aware Routing · Caching · Guardrails · Evals (LLM-as-Judge, RAGAS)
   - Agentic AI for SRE · Incident Commander Agents · Approval-Gated Runbooks
+  - Delivery Intelligence · Jira/GitLab Integrations · Guarded Text2SQL · ROI Measurement
   - Multi-Agent Orchestration · MCP · Claude Agent SDK
   - Retrieval-Augmented Generation · Vector DBs · Knowledge Graphs
   - LLM Security · Prompt-Injection Defense · PII Redaction
   - Fine-tuning · Open-weights deployment (Ollama, vLLM)
-  - Full-stack AI delivery · AWS Serverless · Docker · Kubernetes · OpenTelemetry
+  - Full-stack AI delivery · AWS Serverless · Glue · Athena · Step Functions · Docker · Kubernetes · OpenTelemetry
 
 career_highlights:
   - 📜 Indian Patent IN 202031037602 A — Automated Bag Valve Mask
@@ -104,6 +105,8 @@ fun_fact: "I turn 'just a demo' into 'production-grade' over a weekend."
   <img src="https://img.shields.io/badge/Incident_Response_AI-E6522C?style=for-the-badge&logo=opsgenie&logoColor=white"/>
   <img src="https://img.shields.io/badge/Safety_Classification-8A63D2?style=for-the-badge&logo=shield&logoColor=white"/>
   <img src="https://img.shields.io/badge/Approval--Gated_Runbooks-22C55E?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Guarded_Text2SQL-3178C6?style=for-the-badge&logo=amazonathena&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DSPy_Optimization-FF6F00?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 </details>
 
@@ -139,6 +142,7 @@ fun_fact: "I turn 'just a demo' into 'production-grade' over a weekend."
   <img src="https://img.shields.io/badge/vLLM-5A45FF?style=for-the-badge&logo=lightning&logoColor=white"/>
   <img src="https://img.shields.io/badge/RAGAS-22C55E?style=for-the-badge&logo=databricks&logoColor=white"/>
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Anthropic_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
@@ -174,6 +178,8 @@ fun_fact: "I turn 'just a demo' into 'production-grade' over a weekend."
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/WPF-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Webhooks-FF6F00?style=for-the-badge&logo=webhook&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microservices-22C55E?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 </details>
@@ -220,7 +226,13 @@ fun_fact: "I turn 'just a demo' into 'production-grade' over a weekend."
   <img src="https://img.shields.io/badge/AWS_API_Gateway-FF4F8B?style=for-the-badge&logo=amazonapigateway&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS_CloudFront-9D4CFF?style=for-the-badge&logo=amazoncloudfront&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS_SQS-FF4F8B?style=for-the-badge&logo=amazonsqs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS_DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS_Step_Functions-FF4F8B?style=for-the-badge&logo=awsstepfunctions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS_Glue-8C4FFF?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS_Athena-3178C6?style=for-the-badge&logo=amazonathena&logoColor=white"/>
   <img src="https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
   <img src="https://img.shields.io/badge/Upstash-00E9A3?style=for-the-badge&logo=upstash&logoColor=white"/>
   <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
@@ -328,6 +340,15 @@ Designed and built the <i>Automated Solar Panel Street Light</i> · circuit trac
 <h2 align="center">🚀 Featured Projects</h2>
 
 <table align="center">
+<tr>
+<td colspan="2" valign="top">
+
+#### 📊 [DeliveryLens-AI](https://github.com/sandipanseal/DeliveryLens-AI)
+AWS-native **enterprise software-delivery intelligence** platform connecting Jira work items with GitLab merge requests and CI pipelines. Calculates auditable flow metrics, diagnoses bottlenecks, recommends approval-gated interventions with ROI estimates, and verifies throughput improvements. Includes guarded Text2SQL, Glue + Athena analytics, Databricks exploration, offline DSPy optimization and Terraform serverless deployment.
+<br/>`FastAPI` `Jira REST` `GitLab GraphQL` `DSPy` `PySpark` `AWS Glue` `Athena` `Step Functions` `Terraform`
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
