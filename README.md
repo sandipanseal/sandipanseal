@@ -448,11 +448,11 @@ Unsupervised clustering of company websites for market segmentation.
 ---
 
 <!-- ============================== PUBLICATIONS ============================== -->
-<h2 align="center">📚 Publications</h2>
+<h2 align="center">🔬 Publications</h2>
 
-<table align="center">
+<table align="center" width="100%">
 <tr>
-<td align="center" width="50">📄</td>
+<td align="center" width="70">🧬</td>
 <td>
 <b>Utilizing Convoluted Neural Networks to predict COVID Infections in Individuals</b><br/>
 <sub>Turkish Online Journal of Qualitative Inquiry · Jul 30, 2021</sub><br/>
@@ -460,7 +460,7 @@ Unsupervised clustering of company websites for market segmentation.
 </td>
 </tr>
 <tr>
-<td align="center">📄</td>
+<td align="center">🎙️</td>
 <td>
 <b>Classification of Emotions using Voice Signal-A Non-Linear Signal Processing Approach</b><br/>
 <sub>SSRN · Jan 24, 2020</sub><br/>
@@ -468,7 +468,7 @@ Unsupervised clustering of company websites for market segmentation.
 </td>
 </tr>
 <tr>
-<td align="center">📄</td>
+<td align="center">🌾</td>
 <td>
 <b>IoT Based Smart Farming System</b><br/>
 <sub>Ideal International E-Publication Pvt. Ltd · Apr 1, 2018</sub><br/>
