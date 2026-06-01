@@ -12,6 +12,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sandipan-seal-68198b216/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://sandipanseal.github.io/"><img src="https://img.shields.io/badge/Portfolio-8A63D2?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
   <a href="https://www.hackerrank.com/profile/sandipanseal68"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
   <a href="mailto:sandipanseal68@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=sandipanseal&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
@@ -567,6 +568,7 @@ Unsupervised clustering of company websites for market segmentation.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sandipan-seal-68198b216/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://sandipanseal.github.io/"><img src="https://img.shields.io/badge/Visit%20My%20Portfolio-8A63D2?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
   <a href="mailto:sandipanseal68@gmail.com"><img src="https://img.shields.io/badge/Drop%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/sandipanseal"><img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.hackerrank.com/profile/sandipanseal68"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
