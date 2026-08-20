@@ -302,19 +302,19 @@ fun_fact: "I turn 'just a demo' into 'production-grade' over a weekend."
 
 <table align="center">
 <tr>
-<td align="center" width="50">🧠</td>
-<td>
-<b>Research Assistant (Hiwi)</b> — <i>Leibniz Institute for Neurobiology</i><br/>
-<sub>Mar 2025 – Present · Magdeburg, Germany</sub><br/>
-Brain–Machine Interface & EEG neural feedback · depth perception research · <code>Python</code>, <code>OpenGL</code>, <code>MATLAB</code>, <code>Pygame</code>, <code>Signal Processing</code>.
-</td>
-</tr>
-<tr>
 <td align="center">⚡</td>
 <td>
 <b>Work Student — AI Software Development</b> — <i>aiio GmbH</i><br/>
 <sub>Jan 2025 – Present · Magdeburg, Germany</sub><br/>
 Developing <b>LLM-powered, RAG-enabled multi-agent systems</b> and AI tools that automate the testing lifecycle and internal processes · React + TypeScript frontend · PostgreSQL data validation · full-stack delivery.
+</td>
+</tr>
+<tr>
+<td align="center" width="50">🧠</td>
+<td>
+<b>Research Assistant (Hiwi)</b> — <i>Leibniz Institute for Neurobiology</i><br/>
+<sub>Mar 2025 – June 2026 · Magdeburg, Germany</sub><br/>
+Brain–Machine Interface & EEG neural feedback · depth perception research · <code>Python</code>, <code>OpenGL</code>, <code>MATLAB</code>, <code>Pygame</code>, <code>Signal Processing</code>.
 </td>
 </tr>
 <tr>
