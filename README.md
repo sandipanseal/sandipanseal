@@ -1,7 +1,6 @@
-
 <!-- ============================== HERO BANNER ============================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24,30&height=260&section=header&text=Sandipan%20Seal&fontSize=70&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20LLM%20%26%20Agentic%20Systems%20%E2%80%A2%20Forward-Deployed&descAlignY=60&descSize=18&animation=twinkling&fontColor=ffffff" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=240&section=header&text=Sandipan%20Seal&fontSize=68&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20LLM%20Agentic%20Systems%20%E2%80%A2%20Forward-Deployed%20Engineer&descAlignY=58&descSize=16&animation=twinkling&fontColor=ffffff" alt="header"/>
 </p>
 
 <p align="center">
